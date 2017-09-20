@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("resources/image_01.jpeg");
+}
+
+.brushes {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    text-align: left;
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    text-align: left;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    text-align: left;
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
